@@ -1,0 +1,2 @@
+../Core/Src/asc5600.c:4:19:AS5600_Init	1
+../Core/Src/asc5600.c:12:19:AS5600_ReadAngle_deg	3
